@@ -1,0 +1,6 @@
+C:\Users\er3wer\source\repos\FinalAmuse\FinalAmuse\obj\Debug\net6.0\FinalAmuse.csproj.AssemblyReference.cache
+C:\Users\er3wer\source\repos\FinalAmuse\FinalAmuse\obj\Debug\net6.0\FinalAmuse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\er3wer\source\repos\FinalAmuse\FinalAmuse\obj\Debug\net6.0\FinalAmuse.AssemblyInfoInputs.cache
+C:\Users\er3wer\source\repos\FinalAmuse\FinalAmuse\obj\Debug\net6.0\FinalAmuse.AssemblyInfo.cs
+C:\Users\er3wer\source\repos\FinalAmuse\FinalAmuse\obj\Debug\net6.0\FinalAmuse.csproj.CoreCompileInputs.cache
+C:\Users\er3wer\source\repos\FinalAmuse\FinalAmuse\obj\Debug\net6.0\FinalAmuse.MvcApplicationPartsAssemblyInfo.cache
